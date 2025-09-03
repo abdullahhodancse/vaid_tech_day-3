@@ -1,6 +1,6 @@
 class person: #parent class
     def __init__(self,name,phone): #constructor
-        self.name=name 
+        self.name=name
         self.phone=phone
 
 
