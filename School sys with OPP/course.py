@@ -1,4 +1,4 @@
-class Course():     # normal class becarar kono chaild nai
+class Course:     # normal class becarar kono chaild nai
     def __init__(self,course_name,course_teacher):  #constructor aitar subida hoilo varibable felxible vabe neya jai
         self.course_name=course_name #instance variable ja hoy argument theke na hoy keyword the data nibe ,,,aitar ekta problem holo hoy data dictionary akare dau na hole position thik rakhao
         self.course_teacher=course_teacher #instance variable ja hoy argument theke na hoy keyword the data nibe ,,,aitar ekta problem holo hoy data dictionary akare dau na hole position thik rakhao
